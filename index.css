@@ -1,0 +1,63 @@
+.container{
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+
+.box{
+    
+    padding: 20px;
+    height: 200px;
+    width: 400px;
+    
+}
+#box1{
+
+    background-image: url(01.jpg);
+}
+#box2{
+
+    background-image: url(02.jpg);
+}
+#box3{
+
+    background-image: url(03.jpg);
+}
+#box4{
+
+    background-image: url(04.jpg);
+}
+#box5{
+
+    background-image: url(05.jpg);
+}
+#box6{
+
+    background-image: url(06.jpg);
+}
+#box7{
+
+    background-image: url(07.jpg);
+}
+#box8{
+
+    background-image: url(08.jpg);
+}
+#box9{
+
+    background-image: url(09.jpg);
+}
+#box10{
+
+    background-image: url(10.jpg);
+}
+#box11{
+
+    background-image: url(11.jpg);
+}
+#box12{
+
+    background-image: url(12.jpg);
+}
